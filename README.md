@@ -33,7 +33,7 @@
 
 ## 🌎 Onde me encontrar  
 <p align="left">
-  <a href="https://www.linkedin.com/in/seu-linkedin">
+  <a href="https://www.linkedin.com/in/hárliton-martins-7597a2238">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://seu-site.com">
